@@ -1,3 +1,5 @@
+# debugging script
+
 import ssdp3 as ssdp
 
 st = 'urn:rc-freetime-tv:service:freetimerc:1'
