@@ -3,6 +3,7 @@
 Custom API for network control over HUMAX Freesat box (HDR-1000S/1010S) (probably works with other versions - not tested)
 Minimal dependencies.
 
+----
 
 If this was useful and has saved you a few hours and you want to say thanks feel free to buy-me-a-coffee!
 
